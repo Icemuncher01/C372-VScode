@@ -38,7 +38,7 @@ const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   password: 'RP738964$',
-  database: 'petshop'
+  database: 'petcare'
 });
 
 function sha256Hash(value) {
